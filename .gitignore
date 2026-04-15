@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+workspace/image_memory/*
+!workspace/image_memory/.gitkeep
+
+workspace/source_metadata/*
+!workspace/source_metadata/.gitkeep
+
+workspace/recreated_from_memory/*
+!workspace/recreated_from_memory/.gitkeep
+
+workspace/sources/imported/*
+!workspace/sources/imported/.gitkeep
